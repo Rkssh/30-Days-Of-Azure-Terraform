@@ -1,6 +1,6 @@
 # 30 Days of Terraform Challenges with Azure
 
-Welcome to the 30 Days of Terraform Challenges with Azure! In this challenge series, we will explore the powerful combination of Terraform and Azure to automate infrastructure deployment and management. Each day, you'll be presented with a unique Terraform challenge focused on Azure resources. Feel free to customize and modify the challenges to suit your audience's interests and skill levels. Let's dive into the world of Terraform and Azure!
+Welcome to the 30 Days of Terraform Challenges with Azure! In this challenge series, we will explore the powerful combination of Terraform and Azure to automate infrastructure deployment and management. Each day, you'll be presented with a unique Terraform challenge focused on Azure resources. Let's dive into the world of Terraform and Azure!
 
 ## Guidelines
 
